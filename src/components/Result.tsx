@@ -3,10 +3,10 @@ import './Result.css';
 
 function Result() {
   const results = [
-    'Cebu Taoist Temple',
+    'Malapascua Island',
     'Temple of Leah',
-    'Sirao Flower Garden',
-    '10,000 Roses of Cebu',
+    'Bantayan Island',
+    'Magdakpanay sa Lovers',
     'Kawasan Falls',
     'Osmeña Peak',
     'TCH',
