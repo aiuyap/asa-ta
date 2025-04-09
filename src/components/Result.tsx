@@ -7,10 +7,20 @@ function Result() {
     'Temple of Leah',
     'Sirao Flower Garden',
     '10,000 Roses of Cebu',
-    'elderberry',
+    'Kawasan Falls',
     'Osmeña Peak',
-    'grape',
-    'honeydew',
+    'TCH',
+    'Oslob Whale Sharks',
+    'Tumalog Falls',
+    `Edsnath's Payag`,
+    'Ila Joujiel',
+    'Kaog Balut',
+    'Magpabukid sa dagat',
+    'Mountain View',
+    'SM Seaside',
+    'Little Kyoto',
+    'Ihawn ang manok nila Melvin',
+    'Magcamping sa gawas ila Mapex',
   ];
 
   const [selectedWord, setSelectedWord] = useState<string>('');
