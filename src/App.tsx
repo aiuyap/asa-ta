@@ -1,10 +1,15 @@
+import { Link } from 'react-router-dom';
 import './App.css';
 
 function App() {
   return (
     <>
-      <h1>Asa man ta?</h1>
-      <button>Ikaw Bahala</button>
+      <div className="wrapper">
+        <div className="asa-ta">Asa man ta?</div>
+      </div>
+      <Link to="/result">
+        <button>Ikaw Bahala</button>
+      </Link>
     </>
   );
 }
